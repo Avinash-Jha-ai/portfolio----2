@@ -44,6 +44,8 @@ export default function App() {
     }
   }, [])
 
+
+  // Avinash
   const handleLoadComplete = () => {
     setLoading(false)
   }
